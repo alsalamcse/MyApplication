@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="title_activity_main_list">MainListActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">ItemName</string>
+    <string name="save">Save Item</string>
+    <string name="price">itemPrice</string>
+    <string name="amonut" />
+    <string name="amount">itemAmount</string>
+    <string name="units">itemUnits</string>
 </resources>
